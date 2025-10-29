@@ -87,7 +87,8 @@ docker exec -ti secretic-app bash
 
 This is open-sourced software licensed under the [MIT License](https://github.com/gomzyakov/secretic/blob/main/LICENSE).
 
-TEST
+TEST1
+
 [![GitHub release](https://img.shields.io/github/release/gomzyakov/secretic.svg)](https://github.com/gomzyakov/secretic/releases/latest)
 [![license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/gomzyakov/secretic/blob/development/LICENSE)
 [![codecov](https://codecov.io/gh/gomzyakov/secretic/branch/main/graph/badge.svg?token=4CYTVMVUYV)](https://codecov.io/gh/gomzyakov/secretic)
